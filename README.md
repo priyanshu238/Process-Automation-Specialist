@@ -527,12 +527,9 @@ Text( WEEKDAY( Date__c ) ) )```
   - Activate
   - Close
 
-### Check Challenge!!
 
 ## Challenge 7
 ## Automate Setups
 
 You have already completed the challenge earlier.
-### Check Challenge!!
-Hope it helped you with the badge.....
-Thank You
+
