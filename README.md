@@ -4,13 +4,13 @@
 - Install the Process Automation superbadge unmanaged package(package ID 04t46000001Zch4)
 
 ## Challenges
-- 1) [Automate Leads]
-- 2) [Automate Accounts]
-- 3) [Create Robot Setup Object]
-- 4) [Create Sales Process and Validate Opportunities]
-- 5) [Automate Opportunities]
-- 6) [Create Flow for Opportunities]
-- 7) [Automate Setups]
+- 1) Automate Leads
+- 2) Automate Accounts
+- 3) Create Robot Setup Object
+- 4) Create Sales Process and Validate Opportunities
+- 5) Automate Opportunities
+- 6) Create Flow for Opportunities
+- 7) Automate Setups
 
 ## Challenge 1
 ## Automate Leads
